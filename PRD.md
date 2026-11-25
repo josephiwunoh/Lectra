@@ -1,6 +1,5 @@
 # Product Requirements Document (PRD)
-
-**Project Title:** Lectra  
+ 
 **Product Name:** Lectra
 
 ---
