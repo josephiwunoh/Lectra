@@ -19,13 +19,9 @@ During physical lectures, students constantly forge signatures on circulating pa
 
 - **Lecturers:** Need accurate attendance records and a reliable way to record and review students' attendance.
 - **Students:** May find the paper-based attendance process difficult and tedious, and need a simple way to make their attendance known.
-- **University management and programme administrators:** May need attendance to be recorded during lectures and other university programmes.
+- **University management and Administrators:** May need attendance to be recorded during lectures and other seminars.
 
-### 2.3 Evidence and Current Observations
-
-The current problem identified for Lectra is the ease with which students can forge signatures on circulating attendance sheets or answer verbal roll calls for absent friends. This makes manual attendance records difficult to verify and maintain accurately.
-
-### 2.4 Why the Current Process Falls Short
+### 2.4 Why the Current Method Falls Short
 
 - Paper-based attendance relies on signatures that can be forged.
 - Verbal roll calls allow students to answer for absent friends.
